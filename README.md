@@ -19,5 +19,5 @@ I am a 21-year-old **Junior Frontend Developer** with 3 years of programming exp
 
 ### Contact
 
-- 💼 You can contact me in Telegram: @zedf0r
+- 💼 You can contact me in Telegram: **@zedf0r**
 - 💼 And email: [zemlyanykh@bk.ru](mailto:zemlyanykh@bk.ru)
