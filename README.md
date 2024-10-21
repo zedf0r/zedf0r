@@ -13,11 +13,11 @@ I am a 21-year-old **Junior Frontend Developer** with 3 years of programming exp
 - **Frameworks:** React (in proggress learning)
 - **Tools:** Git, Webpack, VS Code.
 
-### Project
+### Projects
 - [Diplom - adaptive web-page](https://github.com/zedf0r/mq-diplom)
 - [HI-LIGHT](https://github.com/zedf0r/HI-LIGHT-by-zedf0r): in progress
 
-### Contact
+### Contacts
 
 - 💼 You can contact me in Telegram: **@zedf0r**
 - 💼 And email: [zemlyanykh@bk.ru](mailto:zemlyanykh@bk.ru)
