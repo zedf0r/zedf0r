@@ -5,7 +5,7 @@ I am a 21-year-old **Junior Frontend Developer** with 3 years of programming exp
 
 ### Current focus
 - 🔭 Actively seeking job
-- ⚡ Currently working on a Freelance mini project
+- ⚡ Currently working on a mini project
 
 ### Skills
 
