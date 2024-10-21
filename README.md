@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi every one 👋
 
-<!--
-**zedf0r/zedf0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I am a 21-year-old **Junior Frontend Developer** with 3 years of programming experience. I am passionate about creating responsive and user-friendly web applications.
 
-Here are some ideas to get you started:
+### Current focus
+- 🔭 Actively seeking job
+- ⚡ Currently working on a Freelance mini project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** React (in proggress learning)
+- **Tools:** Git, Webpack, VS Code.
+
+### Project
+- [Diplom - adaptive web-page](https://github.com/zedf0r/mq-diplom)
+- [HI-LIGHT](https://github.com/zedf0r/HI-LIGHT-by-zedf0r): in progress
+
+### Contact
+
+- 💼 You can contact me in Telegram: @zedf0r
+- 💼 And email: [zemlyanykh@bk.ru](mailto:zemlyanykh@bk.ru)
