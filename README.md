@@ -10,6 +10,7 @@ I am a 21-year-old **Junior Frontend Developer** with 3 years of programming exp
 - **Tools:** Git, Webpack, VS Code.
 
 ### Projects
+- [Railway SPA – Single-Page Application for Railway Services](https://github.com/zedf0r/FE-Diplom)
 - [NevaGSM - Multi-page Website for Apple Electronics Store](https://github.com/zedf0r/NevaGSM/tree/yarndev)
 - [EX - Corporate Website for B2B Services](https://github.com/zedf0r/EX)
 - [Diplom - Responsive Design Portfolio – HTML/CSS Media Query Practice](https://github.com/zedf0r/mq-diplom)
