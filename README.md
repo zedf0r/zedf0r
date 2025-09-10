@@ -1,5 +1,3 @@
-## Hi every one 👋
-
 ### About me
 I am a 21-year-old **Junior Frontend Developer** with 3 years of programming experience. I am passionate about creating responsive and user-friendly web applications.
 
